@@ -1,0 +1,34 @@
+body{
+    background-color: lightgrey;
+}
+#div-img{
+    text-align: center;
+    color:lightgray;
+}
+ul{
+    list-style-type:none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+li a{
+    text-decoration-line: none;
+    color: black;
+}
+li a:hover{
+    color: lightslategrey;
+}
+#body{
+    padding: 0px;
+    margin: 10px;
+}
+
+#section{
+    display: inline-block;
+    margin: 10px;
+    text-transform: uppercase;
+    
+}
